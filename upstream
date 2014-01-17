@@ -1,1 +1,5 @@
-Explain what the "upstream" remote is usually used for, in your words
+upstream-
+
+When i copy or clone froma  repository the information flow downstream to me. 
+
+When i makes changes locally i need to send the changes back upstream so they can be save in the repository. This way anyone else pulling from the same source is working with the same changes. 
