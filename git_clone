@@ -1,1 +1,19 @@
-Explain what git clone does, in your own words
+git clone-
+
+I change in to the Parent directory of where i want the clone to be created
+
+Then using HTTPS clone URL from github, SSH key or Subversion to point git to the repo
+
+A directory is created locally with the repository name
+
+This directory is changed into
+
+The directory is initiated
+
+Link established between remote and local repo
+
+The repo is then pulled
+
+Then the directory changed back to where it started locally
+
+The end 
