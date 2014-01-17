@@ -1,1 +1,5 @@
-Explain what branch is, in your words
+branch-
+
+When i first initiate a git repository (git init) a master branch is created for me to commit reposoitory changes to. The time will come when i need to experiments with the application for e.g adding a new feature. To do this without effecting the code base on the master branch i can create another branch. This is called parallel development. At this point the master branch has diverged. Once the the feature on the branch has been fully trested it can be merged back into the master branch. Of course if the feauture is not successful then the branch can be abandoned leaving the master branch unchanged. 
+
+This is especially useeful when multiple developers are work on a live application submitting bug fixes and new features. 
